@@ -10,6 +10,13 @@ soruce_code.py
 ## 2- OUTPUTS : 
 
 
+Screenshot 2023-12-01 130308.png
+
+Screenshot 2023-12-01 131412.png
+
+Screenshot 2023-12-01 134427.png
+
+
 This code is a simple calculator GUI (Graphical User Interface) implemented using the Tkinter library in Python. 
 Let's break down the code step by step:
 
